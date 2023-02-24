@@ -1,3 +1,4 @@
-# -MAB-CC-Framework
-MultiAgent Based Cloud Computing Framework
-# mas-cloud-plus
+# MAS-Cloud+
+
+A Multi-agent Architecture for Optimized Cloud Resource Management
+
